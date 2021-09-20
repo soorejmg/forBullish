@@ -31,4 +31,4 @@ Endpoints
             "nationality": "ind"
         }'
     ```
-    Please use the Postman requests json file to import and fire the requests
+    Please use the Postman requests json file 'Assignment.postman_collection.json' to import and fire the requests
