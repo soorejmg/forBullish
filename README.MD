@@ -31,3 +31,4 @@ Endpoints
             "nationality": "ind"
         }'
     ```
+    Please use the Postman requests json file to import and fire the requests
